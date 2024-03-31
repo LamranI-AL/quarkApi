@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon index.js",
     "build": "Node build --output public",
-    "vercel-build": "echo hello"
+    "vercel-build": "echo hello  from vercel"
   },
   "keywords": [],
   "author": "",
